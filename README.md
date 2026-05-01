@@ -7,7 +7,17 @@ I am a passionate Front-end Developer dedicated to building scalable, high-perfo
 
 ### 🚀 Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,redux,nodejs,git,github" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,redux,nodejs,git,github,vscode,postman" />
+</a>
+</p>
+
+---
+
+### 📊 GitHub Activity
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=faresali74&show_icons=true&theme=tokyonight" alt="faresali74" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresali74&layout=compact&theme=tokyonight" alt="faresali74" height="170" />
 </p>
 
 
