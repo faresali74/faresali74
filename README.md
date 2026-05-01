@@ -10,11 +10,6 @@ I am a passionate Front-end Developer dedicated to building scalable, high-perfo
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,redux,nodejs,git,github" />
 </p>
 
-### 📊 GitHub Stats
-
-[![Fares's GitHub stats](https://github-readme-stats.vercel.app/api?username=faresali74&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faresali74&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
