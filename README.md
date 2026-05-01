@@ -6,10 +6,15 @@ I am a passionate Front-end Developer dedicated to building scalable, high-perfo
 ---
 
 ### 🚀 Tech Stack & Tools
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks/Libraries:** React.js, Next.js, Tailwind CSS, Bootstrap
-- **State Management:** Redux Toolkit, Context API
-- **Others:** Node-RED (IoT), Git & GitHub, Performance Optimization
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,redux,nodejs,git,github" />
+</p>
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=faresali74&show_icons=true&theme=radical" alt="faresali74 github stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresali74&layout=compact&theme=radical" alt="faresali74 top langs" height="150" />
+</p>
 
 ---
 
